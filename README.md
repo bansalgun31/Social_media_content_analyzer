@@ -98,7 +98,7 @@ Note: Check `server/index.ts` and `storage.ts` for exact environment keys requir
 
 ## License
 This project is licensed under the MIT License.
-
+ 
 ---
 
 If you'd like, I can also:
